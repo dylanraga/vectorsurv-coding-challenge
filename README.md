@@ -31,6 +31,10 @@
 This project splits the back-end server `/server` and the client development server `/client`. Each has its own dependencies, so each project needs to individually be initialized and served:
 
 ```
+git clone https://github.com/dylanraga/vectorsurv-coding-challenge.git
+```
+
+```
 cd server
 npm install
 npm run dev
