@@ -70,6 +70,7 @@ export function MovieForm({ refetch }: MovieFormProps) {
             type="text"
             id="title"
             name="title"
+            placeholder="The Dark Knight"
             className={formErrorClassName(formErrors.title)}
           />
           {formErrors.title && <MovieFormError message={formErrors.title} />}
@@ -113,6 +114,7 @@ export function MovieForm({ refetch }: MovieFormProps) {
             type="email"
             id="email"
             name="studioEmail"
+            placeholder="example@domain.com"
             className={formErrorClassName(formErrors.studioEmail)}
           />
           {formErrors.studioEmail && (
