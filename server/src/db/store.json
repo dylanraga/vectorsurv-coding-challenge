@@ -1,0 +1,39 @@
+{
+	"movies": [
+		{
+			"title": "Gone with the Wind",
+			"date": "1939-12-15T00:00:00.000Z",
+			"rating": 9,
+			"genre": "Drama",
+			"studioEmail": "gone@withthewind.com"
+		},
+		{
+			"title": "The Godfather",
+			"date": "1972-03-14T00:00:00.000Z",
+			"rating": 8,
+			"genre": "Drama",
+			"studioEmail": "iam@feeling.lucky"
+		},
+		{
+			"title": "Inception",
+			"date": "2010-07-08T00:00:00.000Z",
+			"rating": 9,
+			"genre": "Sci-Fi",
+			"studioEmail": "dream@with.in"
+		},
+		{
+			"title": "Dylan's Movie",
+			"date": "1996-10-14T00:00:00.000Z",
+			"rating": 10,
+			"genre": "Comedy",
+			"studioEmail": "dylanraga@gmail.com"
+		},
+		{
+			"title": "The Room",
+			"date": "2003-06-27T00:00:00.000Z",
+			"rating": 2,
+			"genre": "Comedy",
+			"studioEmail": "oh@himark.com"
+		}
+	]
+}
